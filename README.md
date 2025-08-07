@@ -1,16 +1,32 @@
-### Hi there 👋 I'm Manikaraj Anburaj
+# 👋 Hi, I'm Manikaraj Anburaj (Can call me Manik 😋)  
 
-**Game Dev Enthusiast | Full-Stack Explorer | Creative Coder**  
+**🎮 Game Developer | Full-Stack Explorer | Tech Enthusiast**  
 
-🚀 **Building immersive worlds** with JavaScript, C#, and Lua  
-🎮 **Passionate about** game mechanics, UI/UX, and interactive storytelling  
-💻 **Tech Toolkit**: `JavaScript` `React` `HTML/CSS` `C++` `C#` `Lua`  
-🌱 **Currently learning**: Unreal Engine/Godot for advanced game dev  
+💻 **Tech Stack**:  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
 
-🔗 **Let's connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manikaraj-anburaj-4550ba354)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle) *(optional)*  
+🔧 **Game Dev Tools**:  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white)
 
-✨ **Fun fact**: I believe games are the ultimate fusion of art and logic!  
+📌 **Currently Working On**:  
+- [ ] RPG Game in Roblox and Unreal
+- [ ] WebGL Experiments  
 
-📫 **How to reach me**: manikaraj@example.com *(replace with your actual email)*  
+📫 **Reach Me**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikaraj_Anburaj-blue?logo=linkedin)](https://www.linkedin.com/in/manikaraj-anburaj-4550ba354) 
+
+---
+
+![ManikkDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manikkDev&show_icons=true&theme=radical)
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=manikkDev.manikkDev)
+
+### 🎲 Fun Fact:  
+*"I code games to bring imaginary worlds to life!"*  
