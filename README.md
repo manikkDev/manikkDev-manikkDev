@@ -22,8 +22,7 @@
 
 📫 **Reach Me**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manikaraj_Anburaj-blue?logo=linkedin)](https://www.linkedin.com/in/manikaraj-anburaj-4550ba354) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-1DA1F2?logo=twitter)](https://twitter.com/yourhandle) *(optional)*
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail)](mailto:manikraj8433@gmail.com)
 
 ---
 
