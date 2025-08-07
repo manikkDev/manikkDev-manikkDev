@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manikaraj Anburaj (Prefer to call Manik 😋)  
+# 👋 Hi, I'm Manikaraj Anburaj (Can call me Manik 😋)  
 
 **🎮 Game Developer | Full-Stack Explorer | Tech Enthusiast**  
 
